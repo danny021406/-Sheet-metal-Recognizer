@@ -1,0 +1,1536 @@
+Total candicates is 99
+FileName = 1d60d1001b8-a1.jpg, features: (0.8699346405228758, 1.4432684026049019, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1d60d1001b8-a2.jpg, features: (0.8660194174757282, 1.4692913366079827, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1d60d1013b0-c.jpg, features: (0.892656980687538, 1.4909119839517733, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1d60d1016b1-b.jpg, features: (0.537506088650755, 1.0099050287047404, 9)
+After internal holes candicates is 15
+After solidity candicates is 4
+candidate = 1d60d1016b1-b.png, features: (0.55179, 1.00157, 10);
+candidate = 1d60d1022a2-a.png, features: (0.91604, 1.19296, 7);
+candidate = 2slce1013b0-a.png, features: (0.84605, 1.96339, 12);
+candidate = 8084003016-k1.png, features: (0.42363, 1.91914, 7);
+**********************************************************
+Total candicates is 99
+FileName = 1d60d1017b2-b.jpg, features: (0.97352587244284, 1.324094233255869, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 8039302018-a.png, features: (1.0, 1.12372, 0);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+**********************************************************
+Total candicates is 99
+FileName = 1d60d1022a2-a.jpg, features: (0.9058542413381123, 1.1767518147955067, 7)
+After internal holes candicates is 32
+After solidity candicates is 9
+candidate = 1d60d1016b1-b.png, features: (0.55179, 1.00157, 10);
+candidate = 1d60d1022a2-a.png, features: (0.91604, 1.19296, 7);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+**********************************************************
+Total candicates is 99
+FileName = 1d60d1022a2-b.jpg, features: (0.9593267882187938, 1.5229361355231386, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1d60d1062a2-j1.jpg, features: (0.9450718413657813, 15.320449090245374, 12)
+After internal holes candicates is 11
+After solidity candicates is 3
+candidate = 1d60d1062a2-j1.png, features: (0.97153, 14.98698, 9);
+candidate = 1m86d1012c5-d.png, features: (0.97256, 27.27573, 10);
+candidate = 1slcd1148c0-a.png, features: (0.92694, 3.38358, 9);
+**********************************************************
+Total candicates is 99
+FileName = 1d60d1062a2-k.jpg, features: (0.5036527718091964, 2.62122148486107, 7)
+After internal holes candicates is 32
+After solidity candicates is 9
+candidate = 1d60d1062a2-k.png, features: (0.50927, 2.61435, 8);
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1d60e1007b3-a.png, features: (0.86485, 2.09087, 7);
+candidate = 1sl4e1020a3-g.png, features: (0.69239, 2.49929, 5);
+candidate = 1v80d2007a1-a.png, features: (0.90776, 2.84588, 5);
+candidate = 1v80d3004b1-a.png, features: (0.93111, 3.17066, 5);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8084003016-k1.png, features: (0.42363, 1.91914, 7);
+**********************************************************
+Total candicates is 99
+FileName = 1d60d1062a2-k1.jpg, features: (0.35277038470844424, 3.2729076874174092, 7)
+After internal holes candicates is 32
+After solidity candicates is 9
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1slcd1148c0-a.png, features: (0.92694, 3.38358, 9);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 1v80d2007a1-a.png, features: (0.90776, 2.84588, 5);
+candidate = 1v80d3004b1-a.png, features: (0.93111, 3.17066, 5);
+candidate = 2m60d1003a5-b.png, features: (0.94541, 3.44763, 8);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+**********************************************************
+Total candicates is 99
+FileName = 1d60d1064a0-a.jpg, features: (0.9567785234899329, 14.468242437575498, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1d60d1064a0-a.png, features: (0.99177, 13.94135, 4);
+candidate = 1m86d1012c5-f.png, features: (0.97912, 17.57713, 5);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 2ak0e1019a0-a.png, features: (0.99083, 18.98449, 4);
+candidate = 2m60d4027a0-a.png, features: (0.97279, 8.36406, 2);
+candidate = 2slce1011a4-c.png, features: (0.999, 10.2805, 2);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 1d60e1007b3-a.jpg, features: (0.8587327016156521, 2.1016400181101145, 9)
+After internal holes candicates is 15
+After solidity candicates is 4
+candidate = 1d60d1062a2-k.png, features: (0.50927, 2.61435, 8);
+candidate = 1d60e1007b3-a.png, features: (0.86485, 2.09087, 7);
+candidate = 2slce1013b0-a.png, features: (0.84605, 1.96339, 12);
+candidate = 8084003016-k1.png, features: (0.42363, 1.91914, 7);
+**********************************************************
+Total candicates is 99
+FileName = 1d60e1007b3-b.jpg, features: (0.9411209068010076, 3.1881069826861252, 1)
+After internal holes candicates is 68
+After solidity candicates is 18
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 1f80e1030a0-a.jpg, features: (0.8072721396250808, 13.808304259547599, 613)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 1f80e1030a0-b.jpg, features: (0.9158029164562977, 1.1322099742973044, 6)
+After internal holes candicates is 32
+After solidity candicates is 9
+candidate = 1d60d1022a2-a.png, features: (0.91604, 1.19296, 7);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+**********************************************************
+Total candicates is 99
+FileName = 1f80e1030a0-d.jpg, features: (0.9787837531200363, 2.6266760615831553, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1d60e1007b3-a.png, features: (0.86485, 2.09087, 7);
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1sl4e1020a3-g.png, features: (0.69239, 2.49929, 5);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 1v80d2007a1-a.png, features: (0.90776, 2.84588, 5);
+candidate = 1v80d3004b1-a.png, features: (0.93111, 3.17066, 5);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1011c5-c.jpg, features: (0.9677902621722847, 1.4147447936912094, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1011c5-d.jpg, features: (0.9650980107799773, 6.740700153659706, 39)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1011c5-d1.jpg, features: (0.9718537221382892, 7.07146814572811, 43)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1011c5-e.jpg, features: (0.9268602540834846, 18.349799227214135, 8)
+After internal holes candicates is 22
+After solidity candicates is 6
+candidate = 1d60d1062a2-j1.png, features: (0.97153, 14.98698, 9);
+candidate = 1m86d1011c5-d.png, features: (0.97545, 30.63642, 11);
+candidate = 1m86d1011c5-e.png, features: (0.97119, 17.51302, 8);
+candidate = 1m86d1012c5-d.png, features: (0.97256, 27.27573, 10);
+candidate = 1m86d1012c5-d1.png, features: (0.97256, 27.29096, 10);
+candidate = 1m86d1012c5-f.png, features: (0.97912, 17.57713, 5);
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1011c5-f.jpg, features: (0.9366089222750268, 7.5567964555984855, 75)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1011c5-g.jpg, features: (0.9023086134395277, 21.065840848359343, 36)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1012c5-b.jpg, features: (0.848630738296848, 18.727152230147134, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1m86d1011c5-f.png, features: (0.97735, 19.57652, 0);
+candidate = 1m86d1011c5-g.png, features: (0.94442, 20.21568, 0);
+candidate = 1m86d1012c5-b.png, features: (0.92968, 18.28752, 0);
+candidate = 1m86d1012c5-c.png, features: (0.97055, 17.65204, 0);
+candidate = 2m60d4027a0-a.png, features: (0.97279, 8.36406, 2);
+candidate = 2slce1011a4-c.png, features: (0.999, 10.2805, 2);
+candidate = 8039302018-20.png, features: (0.43279, 4.60842, 0);
+candidate = 8084003008-c.png, features: (0.92568, 13.78779, 0);
+candidate = 8084003008-d.png, features: (0.9645, 11.47897, 0);
+candidate = 8084003009-b.png, features: (0.91852, 14.02562, 0);
+candidate = 8084003009-c.png, features: (0.92572, 13.7953, 0);
+candidate = 8084003009-d.png, features: (0.9645, 11.47897, 0);
+candidate = 8085003020-e.png, features: (0.96744, 13.43098, 0);
+candidate = 8085003021-e.png, features: (0.96744, 13.43098, 0);
+candidate = 8085003021-j.png, features: (1.0, 4.4976, 0);
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1012c5-c.jpg, features: (0.636858166379196, 7.591082546011737, 31)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1012c5-d.jpg, features: (0.1784673184643012, 1.847498954471223, 88)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1012c5-d1.jpg, features: (0.8790113199709212, 28.63150250790703, 15)
+After internal holes candicates is 5
+After solidity candicates is 2
+candidate = 2slce1013b0-a.png, features: (0.84605, 1.96339, 12);
+candidate = 8084003016-k.png, features: (0.42282, 1.91954, 13);
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1012c5-f.jpg, features: (0.9037609658646747, 18.068347802259932, 5)
+After internal holes candicates is 47
+After solidity candicates is 12
+candidate = 1d60d1064a0-a.png, features: (0.99177, 13.94135, 4);
+candidate = 1m86d1011c5-e.png, features: (0.97119, 17.51302, 8);
+candidate = 1m86d1012c5-f.png, features: (0.97912, 17.57713, 5);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 2ak0e1019a0-a.png, features: (0.99083, 18.98449, 4);
+candidate = 2m60d1003a5-b.png, features: (0.94541, 3.44763, 8);
+candidate = 2m60d4027a0-a.png, features: (0.97279, 8.36406, 2);
+candidate = 2slce1011a4-c.png, features: (0.999, 10.2805, 2);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+**********************************************************
+Total candicates is 99
+FileName = 1m86d1012c5-g.jpg, features: (0.9786747905559787, 1.4248088141367528, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1sl4e1020a3-g.jpg, features: (0.6804952905069319, 2.434155532269436, 5)
+After internal holes candicates is 47
+After solidity candicates is 12
+candidate = 1d60d1062a2-k.png, features: (0.50927, 2.61435, 8);
+candidate = 1d60e1007b3-a.png, features: (0.86485, 2.09087, 7);
+candidate = 1sl4e1020a3-g.png, features: (0.69239, 2.49929, 5);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 1v80d2007a1-a.png, features: (0.90776, 2.84588, 5);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8084003016-k1.png, features: (0.42363, 1.91914, 7);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1sl4e1020a3-k.jpg, features: (0.9716729021913415, 2.0574385843171665, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1sl4e1020a3-g.png, features: (0.69239, 2.49929, 5);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 2slce1041a1-b.png, features: (0.76651, 1.88572, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1slcd1147c0-a3.jpg, features: (0.9797619047619047, 1.0057469969711357, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60d1022a2-a.png, features: (0.91604, 1.19296, 7);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1slcd1147c0-a3.png, features: (0.99061, 1.00142, 2);
+candidate = 1slcd1148c0-a3.png, features: (0.99061, 1.00159, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 2slce1981a1-h.png, features: (0.95402, 1.00162, 1);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1slcd1148c0-a.jpg, features: (0.9184913447208529, 3.432177004798963, 8)
+After internal holes candicates is 22
+After solidity candicates is 6
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1slcd1148c0-a.png, features: (0.92694, 3.38358, 9);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 1v80d3004b1-a.png, features: (0.93111, 3.17066, 5);
+candidate = 2m60d1003a5-b.png, features: (0.94541, 3.44763, 8);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+**********************************************************
+Total candicates is 99
+FileName = 1slcd1148c0-a1.jpg, features: (0.9572029801512825, 3.4792637300392717, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 1v80d2007a1-a.png, features: (0.90776, 2.84588, 5);
+candidate = 1v80d3004b1-a.png, features: (0.93111, 3.17066, 5);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 1slcd1148c0-a3.jpg, features: (0.9788962647379372, 1.0052993273809767, 3)
+After internal holes candicates is 77
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1147c0-a3.png, features: (0.99061, 1.00142, 2);
+candidate = 1slcd1148c0-a3.png, features: (0.99061, 1.00159, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 2slce1981a1-h.png, features: (0.95402, 1.00162, 1);
+candidate = 8039302018-a.png, features: (1.0, 1.12372, 0);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+**********************************************************
+Total candicates is 99
+FileName = 1slcd1149c0-a2.jpg, features: (0.9759894022189104, 1.6791724596910587, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 2slce1041a1-b.png, features: (0.76651, 1.88572, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1slcd1149c0-a6.jpg, features: (0.9778533357838632, 2.992550972260895, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1sl4e1020a3-g.png, features: (0.69239, 2.49929, 5);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 1v80d2007a1-a.png, features: (0.90776, 2.84588, 5);
+candidate = 1v80d3004b1-a.png, features: (0.93111, 3.17066, 5);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 1slcd1149c0-a7.jpg, features: (0.9598962019344185, 1.1714587366363283, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1147c0-a3.png, features: (0.99061, 1.00142, 2);
+candidate = 1slcd1148c0-a3.png, features: (0.99061, 1.00159, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 2slce1981a1-h.png, features: (0.95402, 1.00162, 1);
+candidate = 8039302018-a.png, features: (1.0, 1.12372, 0);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+**********************************************************
+Total candicates is 99
+FileName = 1slcd1199c0-a.jpg, features: (0.9882526654072482, 1.1520304988841723, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60d1022a2-a.png, features: (0.91604, 1.19296, 7);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1slcd1147c0-a3.png, features: (0.99061, 1.00142, 2);
+candidate = 1slcd1148c0-a3.png, features: (0.99061, 1.00159, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 2slce1981a1-h.png, features: (0.95402, 1.00162, 1);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1slcd1205a1-a.jpg, features: (0.9764787844607371, 1.0665118346007132, 5)
+After internal holes candicates is 47
+After solidity candicates is 12
+candidate = 1d60d1022a2-a.png, features: (0.91604, 1.19296, 7);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1slcd1147c0-a3.png, features: (0.99061, 1.00142, 2);
+candidate = 1slcd1148c0-a3.png, features: (0.99061, 1.00159, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1v80d2007a1-a.jpg, features: (0.891647855530474, 2.862476191157983, 5)
+After internal holes candicates is 47
+After solidity candicates is 12
+candidate = 1d60d1062a2-k.png, features: (0.50927, 2.61435, 8);
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1sl4e1020a3-g.png, features: (0.69239, 2.49929, 5);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 1v80d2007a1-a.png, features: (0.90776, 2.84588, 5);
+candidate = 1v80d3004b1-a.png, features: (0.93111, 3.17066, 5);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+**********************************************************
+Total candicates is 99
+FileName = 1v80d3004b1-a.jpg, features: (0.915439429928741, 3.2337956551368388, 5)
+After internal holes candicates is 47
+After solidity candicates is 12
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 1v80d2007a1-a.png, features: (0.90776, 2.84588, 5);
+candidate = 1v80d3004b1-a.png, features: (0.93111, 3.17066, 5);
+candidate = 2m60d1003a5-b.png, features: (0.94541, 3.44763, 8);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+**********************************************************
+Total candicates is 99
+FileName = 2ak0e1019a0-a.jpg, features: (0.8382577687213448, 17.518453785844997, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1d60d1064a0-a.png, features: (0.99177, 13.94135, 4);
+candidate = 1m86d1012c5-f.png, features: (0.97912, 17.57713, 5);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 2ak0e1019a0-a.png, features: (0.99083, 18.98449, 4);
+candidate = 2m60d4027a0-a.png, features: (0.97279, 8.36406, 2);
+candidate = 2slce1011a4-c.png, features: (0.999, 10.2805, 2);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 2m60d1003a5-b.jpg, features: (0.9294659565279977, 3.449402536502765, 8)
+After internal holes candicates is 22
+After solidity candicates is 6
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1slcd1148c0-a.png, features: (0.92694, 3.38358, 9);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 1v80d3004b1-a.png, features: (0.93111, 3.17066, 5);
+candidate = 2m60d1003a5-b.png, features: (0.94541, 3.44763, 8);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+**********************************************************
+Total candicates is 99
+FileName = 2m60d4027a0-a.jpg, features: (0.9326923076923077, 8.689828472447006, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60d1064a0-a.png, features: (0.99177, 13.94135, 4);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 2m60d4027a0-a.png, features: (0.97279, 8.36406, 2);
+candidate = 2slce1011a4-c.png, features: (0.999, 10.2805, 2);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+candidate = 8039302018-20.png, features: (0.43279, 4.60842, 0);
+candidate = 8039302018-c.png, features: (0.99771, 4.24794, 0);
+candidate = 8084003008-c.png, features: (0.92568, 13.78779, 0);
+candidate = 8084003008-d.png, features: (0.9645, 11.47897, 0);
+candidate = 8084003009-b.png, features: (0.91852, 14.02562, 0);
+candidate = 8084003009-c.png, features: (0.92572, 13.7953, 0);
+candidate = 8084003009-d.png, features: (0.9645, 11.47897, 0);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+candidate = 8085003020-e.png, features: (0.96744, 13.43098, 0);
+candidate = 8085003020-i.png, features: (1.0, 4.4976, 0);
+candidate = 8085003021-e.png, features: (0.96744, 13.43098, 0);
+candidate = 8085003021-j.png, features: (1.0, 4.4976, 0);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 2m60d4027a0-b.jpg, features: (0.9565705728191688, 3.2264658698917237, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 8039302018-c.png, features: (0.99771, 4.24794, 0);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1011a4-a.jpg, features: (0.9600841340408242, 2.1607777280067904, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60e1007b3-a.png, features: (0.86485, 2.09087, 7);
+candidate = 1sl4e1020a3-g.png, features: (0.69239, 2.49929, 5);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8084003016-k1.png, features: (0.42363, 1.91914, 7);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1011a4-a1.jpg, features: (0.6436006517016655, 2.159397836742439, 487)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 2slce1011a4-b.jpg, features: (0.9033564417599012, 1.2490304161884234, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1022a2-a.png, features: (0.91604, 1.19296, 7);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1011a4-c.jpg, features: (0.9496468741825791, 10.521385839873332, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60d1064a0-a.png, features: (0.99177, 13.94135, 4);
+candidate = 1m86d1012c5-f.png, features: (0.97912, 17.57713, 5);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 2m60d4027a0-a.png, features: (0.97279, 8.36406, 2);
+candidate = 2slce1011a4-c.png, features: (0.999, 10.2805, 2);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+candidate = 8039302018-20.png, features: (0.43279, 4.60842, 0);
+candidate = 8039302018-c.png, features: (0.99771, 4.24794, 0);
+candidate = 8084003008-c.png, features: (0.92568, 13.78779, 0);
+candidate = 8084003008-d.png, features: (0.9645, 11.47897, 0);
+candidate = 8084003009-b.png, features: (0.91852, 14.02562, 0);
+candidate = 8084003009-c.png, features: (0.92572, 13.7953, 0);
+candidate = 8084003009-d.png, features: (0.9645, 11.47897, 0);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+candidate = 8085003020-e.png, features: (0.96744, 13.43098, 0);
+candidate = 8085003020-i.png, features: (1.0, 4.4976, 0);
+candidate = 8085003021-e.png, features: (0.96744, 13.43098, 0);
+candidate = 8085003021-j.png, features: (1.0, 4.4976, 0);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1011a4-e1.jpg, features: (0.9493927125506073, 2.361591444436606, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1041a1-b.png, features: (0.76651, 1.88572, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1013b0-a.jpg, features: (0.8318679288345958, 1.9338077553573734, 12)
+After internal holes candicates is 11
+After solidity candicates is 3
+candidate = 2slce1013b0-a.png, features: (0.84605, 1.96339, 12);
+candidate = 2slce1041a1-a.png, features: (0.88182, 1.70142, 15);
+candidate = 8084003016-k.png, features: (0.42282, 1.91954, 13);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1013b0-b.jpg, features: (0.84251968503937, 1.3183735030635668, 3)
+After internal holes candicates is 77
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 8039302018-a.png, features: (1.0, 1.12372, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1014a0-a.jpg, features: (0.8919344675488343, 1.0909125086248337, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60d1022a2-a.png, features: (0.91604, 1.19296, 7);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1slcd1147c0-a3.png, features: (0.99061, 1.00142, 2);
+candidate = 1slcd1148c0-a3.png, features: (0.99061, 1.00159, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 2slce1981a1-h.png, features: (0.95402, 1.00162, 1);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1015a0-a.jpg, features: (0.6267720195212643, 1.6291962912547149, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 8084003016-k1.png, features: (0.42363, 1.91914, 7);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1041a1-a.jpg, features: (0.882601219321557, 1.6892194781360246, 10)
+After internal holes candicates is 16
+After solidity candicates is 5
+candidate = 1d60e1007b3-a.png, features: (0.86485, 2.09087, 7);
+candidate = 2slce1013b0-a.png, features: (0.84605, 1.96339, 12);
+candidate = 8039302018-b.png, features: (0.28677, 1.26173, 13);
+candidate = 8084003016-k.png, features: (0.42282, 1.91954, 13);
+candidate = 8084003016-k1.png, features: (0.42363, 1.91914, 7);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1041a1-b.jpg, features: (0.7487320082248116, 1.9059265923171658, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1041a1-b.png, features: (0.76651, 1.88572, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1041a1-b1.jpg, features: (0.8692094313453537, 1.9708789287859414, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1sl4e1020a3-g.png, features: (0.69239, 2.49929, 5);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 2slce1041a1-b.png, features: (0.76651, 1.88572, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1100a2-d.jpg, features: (0.9491876131580804, 3.4517743462610935, 26)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 2slce1100a2-d1.jpg, features: (0.8637669831490379, 3.3186234968313753, 14)
+After internal holes candicates is 7
+After solidity candicates is 2
+candidate = 2slce1013b0-a.png, features: (0.84605, 1.96339, 12);
+candidate = 8084003016-k.png, features: (0.42282, 1.91954, 13);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1100a2-d2.jpg, features: (0.9353600739798867, 3.4609215269288804, 21)
+After internal holes candicates is 2
+After solidity candicates is 1
+candidate = 8081003000-b.png, features: (0.88608, 1.29369, 21);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1100a2-d3.jpg, features: (0.9385405356496561, 3.393405033196808, 21)
+After internal holes candicates is 2
+After solidity candicates is 1
+candidate = 8081003000-b.png, features: (0.88608, 1.29369, 21);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1100a2-e1.jpg, features: (0.9491768074445239, 1.011957883471246, 1)
+After internal holes candicates is 68
+After solidity candicates is 18
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1147c0-a3.png, features: (0.99061, 1.00142, 2);
+candidate = 1slcd1148c0-a3.png, features: (0.99061, 1.00159, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 2slce1981a1-h.png, features: (0.95402, 1.00162, 1);
+candidate = 8039302018-a.png, features: (1.0, 1.12372, 0);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1100a2-f.jpg, features: (0.9853643287484369, 3.30560236938489, 22)
+After internal holes candicates is 2
+After solidity candicates is 1
+candidate = 8081003000-b.png, features: (0.88608, 1.29369, 21);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1100a2-f4.jpg, features: (0.9855627478225506, 2.7803138388581927, 13)
+After internal holes candicates is 9
+After solidity candicates is 3
+candidate = 2slce1013b0-a.png, features: (0.84605, 1.96339, 12);
+candidate = 2slce1041a1-a.png, features: (0.88182, 1.70142, 15);
+candidate = 8084003016-k.png, features: (0.42282, 1.91954, 13);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1100a2-f5.jpg, features: (0.9836279194092686, 2.778504385989506, 18)
+After internal holes candicates is 4
+After solidity candicates is 2
+candidate = 2slce1041a1-a.png, features: (0.88182, 1.70142, 15);
+candidate = 8081003000-b.png, features: (0.88608, 1.29369, 21);
+**********************************************************
+Total candicates is 99
+FileName = 2slce1981a1-h.jpg, features: (0.9365878208354304, 1.0062676499953955, 1)
+After internal holes candicates is 68
+After solidity candicates is 18
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1147c0-a3.png, features: (0.99061, 1.00142, 2);
+candidate = 1slcd1148c0-a3.png, features: (0.99061, 1.00159, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 2slce1981a1-h.png, features: (0.95402, 1.00162, 1);
+candidate = 8039302018-a.png, features: (1.0, 1.12372, 0);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+**********************************************************
+Total candicates is 99
+FileName = 3034303000-a.jpg, features: (0.7701332679257624, 1.0066989298654943, 17)
+After internal holes candicates is 3
+After solidity candicates is 1
+candidate = 3034303000-a.png, features: (0.7726, 1.00632, 17);
+**********************************************************
+Total candicates is 99
+FileName = 4200005280-a.jpg, features: (0.9307097076754729, 10.518562046016118, 20)
+After internal holes candicates is 3
+After solidity candicates is 1
+candidate = 4200005280-a.png, features: (0.96085, 10.2392, 20);
+**********************************************************
+Total candicates is 99
+FileName = 8039302018-20.jpg, features: (0.4110067850044548, 4.671442706186854, 1)
+After internal holes candicates is 68
+After solidity candicates is 18
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8039302018-20.png, features: (0.43279, 4.60842, 0);
+candidate = 8039302018-c.png, features: (0.99771, 4.24794, 0);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003020-i.png, features: (1.0, 4.4976, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j.png, features: (1.0, 4.4976, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8039302018-a.jpg, features: (0.9922299397313586, 1.1333936331262153, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1147c0-a3.png, features: (0.99061, 1.00142, 2);
+candidate = 1slcd1148c0-a3.png, features: (0.99061, 1.00159, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 2slce1981a1-h.png, features: (0.95402, 1.00162, 1);
+candidate = 8039302018-a.png, features: (1.0, 1.12372, 0);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8039302018-b.jpg, features: (0.2785685431171732, 1.2699836480385889, 13)
+After internal holes candicates is 9
+After solidity candicates is 3
+candidate = 1d60d1016b1-b.png, features: (0.55179, 1.00157, 10);
+candidate = 2slce1041a1-a.png, features: (0.88182, 1.70142, 15);
+candidate = 8039302018-b.png, features: (0.28677, 1.26173, 13);
+**********************************************************
+Total candicates is 99
+FileName = 8039302018-c.jpg, features: (0.9758877159309021, 4.340593488682617, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 8039302018-20.png, features: (0.43279, 4.60842, 0);
+candidate = 8039302018-c.png, features: (0.99771, 4.24794, 0);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003020-i.png, features: (1.0, 4.4976, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j.png, features: (1.0, 4.4976, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8081003000-b.jpg, features: (0.8657908294693457, 1.2966855039198677, 22)
+After internal holes candicates is 2
+After solidity candicates is 1
+candidate = 8081003000-b.png, features: (0.88608, 1.29369, 21);
+**********************************************************
+Total candicates is 99
+FileName = 8084003007-f.jpg, features: (0.9671371857079841, 1.009949717822623, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1147c0-a3.png, features: (0.99061, 1.00142, 2);
+candidate = 1slcd1148c0-a3.png, features: (0.99061, 1.00159, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1100a2-e1.png, features: (0.94065, 1.00242, 2);
+candidate = 2slce1981a1-h.png, features: (0.95402, 1.00162, 1);
+candidate = 8039302018-a.png, features: (1.0, 1.12372, 0);
+candidate = 8084003007-f.png, features: (0.98304, 1.00239, 2);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8084003008-c.jpg, features: (0.9061333333333333, 14.328472586981334, 33)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 8084003008-d.jpg, features: (0.9442285924067673, 11.777030714995059, 8)
+After internal holes candicates is 22
+After solidity candicates is 6
+candidate = 1d60d1062a2-j1.png, features: (0.97153, 14.98698, 9);
+candidate = 1m86d1011c5-e.png, features: (0.97119, 17.51302, 8);
+candidate = 1m86d1012c5-f.png, features: (0.97912, 17.57713, 5);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 2m60d1003a5-b.png, features: (0.94541, 3.44763, 8);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+**********************************************************
+Total candicates is 99
+FileName = 8084003009-b.jpg, features: (0.8555366682855755, 14.11421004814836, 29)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 8084003009-c.jpg, features: (0.8665950505291636, 8.42944541020136, 12)
+After internal holes candicates is 11
+After solidity candicates is 3
+candidate = 1slcd1148c0-a.png, features: (0.92694, 3.38358, 9);
+candidate = 2slce1013b0-a.png, features: (0.84605, 1.96339, 12);
+candidate = 8084003016-k.png, features: (0.42282, 1.91954, 13);
+**********************************************************
+Total candicates is 99
+FileName = 8084003009-d.jpg, features: (0.9475667655786351, 11.831157773254091, 6)
+After internal holes candicates is 32
+After solidity candicates is 9
+candidate = 1d60d1062a2-j1.png, features: (0.97153, 14.98698, 9);
+candidate = 1d60d1064a0-a.png, features: (0.99177, 13.94135, 4);
+candidate = 1m86d1011c5-e.png, features: (0.97119, 17.51302, 8);
+candidate = 1m86d1012c5-f.png, features: (0.97912, 17.57713, 5);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 2ak0e1019a0-a.png, features: (0.99083, 18.98449, 4);
+candidate = 2m60d1003a5-b.png, features: (0.94541, 3.44763, 8);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+**********************************************************
+Total candicates is 99
+FileName = 8084003016-j1.jpg, features: (0.9243840271877655, 2.676157206123284, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8084003016-k.jpg, features: (0.3936570650577965, 1.1103480183541463, 7)
+After internal holes candicates is 32
+After solidity candicates is 9
+candidate = 1d60d1016b1-b.png, features: (0.55179, 1.00157, 10);
+candidate = 1d60d1022a2-a.png, features: (0.91604, 1.19296, 7);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1f80e1030a0-b.png, features: (0.92603, 1.12638, 4);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 1slcd1205a1-a.png, features: (0.98786, 1.05825, 5);
+candidate = 2slce1014a0-a.png, features: (0.91589, 1.07745, 4);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+**********************************************************
+Total candicates is 99
+FileName = 8084003016-k1.jpg, features: (0.41385978132597784, 1.949682915070079, 8)
+After internal holes candicates is 22
+After solidity candicates is 6
+candidate = 1d60d1022a2-a.png, features: (0.91604, 1.19296, 7);
+candidate = 1d60d1062a2-k.png, features: (0.50927, 2.61435, 8);
+candidate = 1d60e1007b3-a.png, features: (0.86485, 2.09087, 7);
+candidate = 1f80e1030a0-a.png, features: (0.70603, 1.18038, 5);
+candidate = 1sl4e1020a3-g.png, features: (0.69239, 2.49929, 5);
+candidate = 8084003016-k1.png, features: (0.42363, 1.91914, 7);
+**********************************************************
+Total candicates is 99
+FileName = 8085003018-a1.jpg, features: (0.8972148541114059, 3.2337059509460104, 4)
+After internal holes candicates is 52
+After solidity candicates is 14
+candidate = 1d60d1062a2-k1.png, features: (0.35683, 3.31748, 6);
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1slcd1148c0-a1.png, features: (0.96895, 3.45873, 5);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 1v80d2007a1-a.png, features: (0.90776, 2.84588, 5);
+candidate = 1v80d3004b1-a.png, features: (0.93111, 3.17066, 5);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-d3.png, features: (0.98182, 3.40727, 5);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8085003018-c1.jpg, features: (0.9508644222020018, 1.6876804555038547, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1041a1-b.png, features: (0.76651, 1.88572, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 8085003018-g1.jpg, features: (0.9577978131594092, 3.1552266727670997, 1)
+After internal holes candicates is 68
+After solidity candicates is 18
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8085003018-k1.jpg, features: (0.9605678233438486, 2.7331286381879245, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8085003019-p.jpg, features: (0.9524368761009983, 1.413456488432267, 1)
+After internal holes candicates is 68
+After solidity candicates is 18
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 1slcd1149c0-a7.png, features: (0.98162, 1.15812, 3);
+candidate = 1slcd1199c0-a.png, features: (0.99374, 1.15985, 4);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 8085003019-q.jpg, features: (0.34021085204967616, 1.5055313221038096, 448)
+After internal holes candicates is 0
+After solidity candicates is 0
+**********************************************************
+Total candicates is 99
+FileName = 8085003020-e.jpg, features: (0.9368585889656329, 14.053444905244023, 18)
+After internal holes candicates is 4
+After solidity candicates is 2
+candidate = 2slce1041a1-a.png, features: (0.88182, 1.70142, 15);
+candidate = 4200005280-a.png, features: (0.96085, 10.2392, 20);
+**********************************************************
+Total candicates is 99
+FileName = 8085003020-i.jpg, features: (0.9713236980958936, 4.578455825676646, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 8039302018-20.png, features: (0.43279, 4.60842, 0);
+candidate = 8039302018-c.png, features: (0.99771, 4.24794, 0);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003020-i.png, features: (1.0, 4.4976, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j.png, features: (1.0, 4.4976, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8085003020-i1.jpg, features: (0.9751066856330014, 2.9758963469910267, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8085003021-e.jpg, features: (0.9515215632584479, 12.68603869905783, 24)
+After internal holes candicates is 1
+After solidity candicates is 1
+candidate = 8081003000-b.png, features: (0.88608, 1.29369, 21);
+**********************************************************
+Total candicates is 99
+FileName = 8085003021-h1.jpg, features: (0.9456605717228946, 1.6621527067204784, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 2slce1041a1-b.png, features: (0.76651, 1.88572, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = 8085003021-j.jpg, features: (0.9680054458815521, 4.55805003255493, 1)
+After internal holes candicates is 68
+After solidity candicates is 18
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1100a2-d.png, features: (0.98315, 3.43573, 4);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-d2.png, features: (0.97411, 3.44752, 4);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8039302018-20.png, features: (0.43279, 4.60842, 0);
+candidate = 8039302018-c.png, features: (0.99771, 4.24794, 0);
+candidate = 8085003018-a1.png, features: (0.87467, 3.8075, 4);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003020-i.png, features: (1.0, 4.4976, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j.png, features: (1.0, 4.4976, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = 8085003021-j1.jpg, features: (0.9750088621056363, 2.9591076283910067, 0)
+After internal holes candicates is 56
+After solidity candicates is 15
+candidate = 1d60e1007b3-b.png, features: (0.97147, 3.14051, 1);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 2m60d4027a0-b.png, features: (0.99058, 3.24797, 0);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 2slce1100a2-d1.png, features: (0.90709, 3.31912, 1);
+candidate = 2slce1100a2-f.png, features: (0.99909, 3.24169, 2);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-g1.png, features: (0.98721, 3.16841, 2);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = pm010a93-c.png, features: (0.55742, 3.34675, 1);
+**********************************************************
+Total candicates is 99
+FileName = da23567a-a.jpg, features: (0.7489788551779166, 2.3784910053751585, 2)
+After internal holes candicates is 76
+After solidity candicates is 20
+candidate = 1sl4e1020a3-g.png, features: (0.69239, 2.49929, 5);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 1slcd1149c0-a6.png, features: (0.99279, 2.96525, 3);
+candidate = 1v80d2007a1-a.png, features: (0.90776, 2.84588, 5);
+candidate = 2slce1011a4-e1.png, features: (1.0, 2.38718, 0);
+candidate = 2slce1041a1-b.png, features: (0.76651, 1.88572, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 2slce1100a2-f4.png, features: (0.99635, 2.76647, 4);
+candidate = 2slce1100a2-f5.png, features: (0.99635, 2.76645, 4);
+candidate = 8084003016-j1.png, features: (1.0, 2.72222, 0);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003018-k1.png, features: (0.99996, 2.74197, 0);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003020-i1.png, features: (1.0, 2.93229, 0);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = 8085003021-j1.png, features: (1.0, 2.93229, 0);
+candidate = da23567a-a.png, features: (0.76288, 2.40657, 2);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = da23568a-a.jpg, features: (0.985237507941847, 1.7723068885690956, 1)
+After internal holes candicates is 68
+After solidity candicates is 18
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 2slce1041a1-b.png, features: (0.76651, 1.88572, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = da23568a-b.jpg, features: (0.9733714457650068, 1.7171243979538156, 3)
+After internal holes candicates is 77
+After solidity candicates is 20
+candidate = 1d60d1001b8-a1.png, features: (0.88316, 1.4501, 0);
+candidate = 1d60d1001b8-a2.png, features: (0.88319, 1.45012, 0);
+candidate = 1d60d1013b0-c.png, features: (0.90279, 1.48657, 1);
+candidate = 1d60d1017b2-b.png, features: (0.99932, 1.32336, 0);
+candidate = 1d60d1022a2-b.png, features: (0.99993, 1.55479, 0);
+candidate = 1m86d1011c5-c.png, features: (0.99341, 1.40445, 2);
+candidate = 1m86d1012c5-g.png, features: (0.99341, 1.40445, 2);
+candidate = 1sl4e1020a3-k.png, features: (0.9908, 2.05654, 2);
+candidate = 1slcd1149c0-a2.png, features: (0.98518, 1.66179, 2);
+candidate = 2slce1011a4-b.png, features: (0.90926, 1.23375, 3);
+candidate = 2slce1013b0-b.png, features: (0.87942, 1.35574, 2);
+candidate = 2slce1015a0-a.png, features: (0.6515, 1.61802, 4);
+candidate = 2slce1041a1-b.png, features: (0.76651, 1.88572, 0);
+candidate = 2slce1041a1-b1.png, features: (0.88708, 1.94374, 2);
+candidate = 8085003018-c1.png, features: (0.99916, 1.67414, 0);
+candidate = 8085003019-p.png, features: (0.98018, 1.40561, 1);
+candidate = 8085003019-q.png, features: (0.98012, 1.61954, 1);
+candidate = 8085003021-h1.png, features: (0.96882, 1.66236, 4);
+candidate = da23568a-a.png, features: (0.9979, 1.76193, 1);
+candidate = da23568a-b.png, features: (0.98009, 1.69861, 2);
+**********************************************************
+Total candicates is 99
+FileName = pm010a93-c.jpg, features: (0.5572205686133634, 3.4415838023142413, 19)
+After internal holes candicates is 3
+After solidity candicates is 1
+candidate = 8081003000-b.png, features: (0.88608, 1.29369, 21);
+**********************************************************
